@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:background="@color/mainColor">
@@ -7,29 +8,16 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="30dp"
-        android:layout_centerVertical="true">
+        android:padding="30dp">
 
         <ImageView
+            android:id="@+id/left_icon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/left_icon"
-            android:src="@drawable/ic_baseline_account_circle_24"
-         />
+            app:srcCompat="@drawable/ic_baseline_account_circle_24" />
 
 
-        <TextView
-            android:id="@+id/text"
-            android:layout_width="143dp"
-            android:layout_height="40dp"
-            android:layout_marginLeft="-26dp"
-            android:layout_marginTop="30dp"
-            android:layout_toRightOf="@+id/left_icon"
 
-
-            android:text="Pantry"
-            android:textColor="@android:color/white"
-            android:textSize="30dp" />
 
         <TextView
             android:id="@+id/textInput2"
@@ -45,11 +33,11 @@
             android:textSize="20dp" />
 
         <ImageView
+            android:id="@+id/right_icon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
-            android:id="@+id/right_icon"
-            android:src="@drawable/ic_baseline_menu_24" />
+            app:srcCompat="@drawable/ic_baseline_menu_24" />
 
     </RelativeLayout>
 

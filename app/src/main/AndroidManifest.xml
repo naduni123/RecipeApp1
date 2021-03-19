@@ -10,8 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Xtrodi"
         android:usesCleartextTraffic="true">
-        <activity android:name=".MainActivity"></activity>
-        <activity android:name=".UploadRecipe">
+        <activity android:name=".AddedRecipe"></activity>
+        <activity android:name=".UploadRecipe" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".UnitConvertor">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

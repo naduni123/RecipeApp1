@@ -1,17 +1,13 @@
 package com.example.xtrodi;
 
-import androidx.annotation.RequiresApi;
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.content.Context;
 import android.os.Build;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import androidx.annotation.RequiresApi;
+import androidx.appcompat.app.AppCompatActivity;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -27,9 +23,6 @@ public class MainActivity extends AppCompatActivity {
         ImageView rightIcon = findViewById(R.id.right_icon);
         TextView txt = findViewById(R.id.text);
 
-        autoCompleteTextView = findViewById(R.id.autoComplete);
-
-        String []option={"Rice","Bakery","Juice","Pudding","Others"};
 
 
 
