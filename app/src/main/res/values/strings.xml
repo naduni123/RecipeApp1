@@ -12,4 +12,9 @@
     <string name="usericon">usericon</string>
     <string name="lockicon">lockicon</string>
     <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="google_sign_up">Google Sign Up</string>
 </resources>
