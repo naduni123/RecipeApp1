@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">loging</string>
+    <string name="username">username</string>
+    <string name="logo">logo</string>
+    <string name="backgrond">backgrond</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="google_login">Google Login</string>
+    <string name="gicon">gicon</string>
+    <string name="create_your_account"><![CDATA[Create Your Account -->]]></string>
+    <string name="forgot_username_password">Forgot Username Password?</string>
+    <string name="usericon">usericon</string>
+    <string name="lockicon">lockicon</string>
+    <string name="email">Email</string>
+</resources>
