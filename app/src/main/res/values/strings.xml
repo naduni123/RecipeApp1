@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Feed</string>
+    <string name="food">Food</string>
+    <string name="nutritions">Nutritions</string>
+    <string name="_14_comments">14 Comments</string>
+    <string name="share">Share</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="_320_likes">320 Likes</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="menu">Menu</string>
+    <string name="_20">20</string>
+    <string name="menu1">menu1</string>
+    <string name="like1">like1</string>
+    <string name="todo">TODO</string>
+    <string name="text_discription_food_menu">text discription food menu</string>
+    <string name="_14_comments">14 Comments</string>
+</resources>
