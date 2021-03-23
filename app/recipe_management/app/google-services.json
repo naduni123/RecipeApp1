@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164351161834",
+    "project_id": "xtrodi",
+    "storage_bucket": "xtrodi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164351161834:android:6b4e51e6e9b13f04e72e93",
+        "android_client_info": {
+          "package_name": "com.example.xtrodi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164351161834-7o2ce7iojpddgs8av250ikjq5401vt62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBFM-LMpuCLf4RPsnSC3HymSWrYEfpYtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164351161834-7o2ce7iojpddgs8av250ikjq5401vt62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
