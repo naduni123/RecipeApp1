@@ -20,7 +20,7 @@
 
         <TextView
             android:id="@+id/text"
-            android:layout_width="143dp"
+            android:layout_width="170dp"
             android:layout_height="40dp"
             android:layout_marginLeft="-26dp"
             android:layout_marginTop="30dp"
@@ -59,7 +59,7 @@
             android:layout_alignParentRight="true"
             android:id="@+id/right_icon"
             android:layout_marginRight="-2dp"
-            android:src="@drawable/ic_baseline_settings_24" />
+            android:src="@drawable/ic_baseline_list_24" />
 
     </RelativeLayout>
 

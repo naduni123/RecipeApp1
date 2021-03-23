@@ -56,33 +56,7 @@ public class MainActivity extends AppCompatActivity {
         model.add(m);
 
 
-       m = new com.example.thilina.Model();
-        m.setDate("Thursday");
-        m.setBreakfast("Breakfast");
-        m.setLunch("Lunch");
-        m.setDinner("Dinner");
-        model.add(m);
 
-        m = new com.example.thilina.Model();
-        m.setDate("Friday");
-        m.setBreakfast("Breakfast");
-        m.setLunch("Lunch");
-        m.setDinner("Dinner");
-        model.add(m);
-
-         m = new com.example.thilina.Model();
-        m.setDate("Saturday");
-        m.setBreakfast("Breakfast");
-        m.setLunch("Lunch");
-        m.setDinner("Dinner");
-        model.add(m);
-
-       m = new com.example.thilina.Model();
-        m.setDate("Sunday");
-        m.setBreakfast("Breakfast");
-        m.setLunch("Lunch");
-        m.setDinner("Dinner");
-        model.add(m);
 
         return model;
 

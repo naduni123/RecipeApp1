@@ -31,11 +31,14 @@
         android:layout_height="60dp"
         android:layout_gravity="end|bottom"
         android:background="@color/background"
-        app:itemIconTint="@color/black"
+        app:itemIconTint="@drawable/selector"
+        app:itemTextColor="@drawable/selector"
         app:itemRippleColor="@color/mainColor"
         app:menu="@menu/menu_navigation">
 
 
     </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+
 
 </LinearLayout>
