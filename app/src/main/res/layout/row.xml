@@ -4,8 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    app:cardCornerRadius="10dp"
-    app:cardElevation="15dp"
+    app:cardCornerRadius="6dp"
+    app:cardElevation="6dp"
     app:cardUseCompatPadding="true"
     app:background="@drawable/shadow">
 
@@ -13,7 +13,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="16dp">
+        android:padding="15dp">
 
 
 
@@ -23,10 +23,10 @@
             android:layout_height="wrap_content"
             android:id="@+id/text1"
             android:text="item"
-            android:textSize="29dp"
+            android:textSize="20dp"
             android:textColor="@color/black"
             android:textStyle="bold"
-            android:layout_marginStart="20dp">
+            android:layout_marginStart="10dp">
 
         </TextView>
 
@@ -35,7 +35,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/text2"
             android:text="days"
-            android:textSize="24dp"
+            android:textSize="16dp"
             android:textColor="@color/black"
             android:textStyle="bold"
             android:layout_marginLeft="300dp"

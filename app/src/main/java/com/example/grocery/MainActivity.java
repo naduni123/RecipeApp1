@@ -35,39 +35,21 @@ public class MainActivity extends AppCompatActivity {
 
         com.example.grocery.Model m = new com.example.grocery.Model();
         m.setItem("LIST");
-        m.setDays("23");
+        m.setDays("Rs100");
         model.add(m);
 
         m = new com.example.grocery.Model();
         m.setItem("LIST");
-        m.setDays("23");
+        m.setDays("Rs500");
         model.add(m);
 
          m = new com.example.grocery.Model();
         m.setItem("LIST");
-        m.setDays("23");
+        m.setDays("Rs50");
         model.add(m);
 
 
-       m = new com.example.grocery.Model();
-        m.setItem("LIST");
-        m.setDays("23");
-        model.add(m);
 
-        m = new com.example.grocery.Model();
-        m.setItem("LIST");
-        m.setDays("23");
-        model.add(m);
-
-         m = new com.example.grocery.Model();
-        m.setItem("LIST");
-        m.setDays("23");
-        model.add(m);
-
-       m = new com.example.grocery.Model();
-        m.setItem("LIST");
-        m.setDays("23");
-        model.add(m);
 
         return model;
 

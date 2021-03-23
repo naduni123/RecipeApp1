@@ -47,10 +47,13 @@
         android:id="@+id/bottom_nav"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/background"
         android:gravity="end|bottom"
-        app:itemIconTint="@color/black"
-        app:itemRippleColor="@color/mainColor"
+        android:background="@color/background"
+
+        app:itemTextColor="@drawable/selector"
+        app:itemIconTint="@drawable/selector"
+
+
         app:menu="@menu/menu_navigation">
 
 
